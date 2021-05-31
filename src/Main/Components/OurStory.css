@@ -1,0 +1,21 @@
+.our-story-main {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0px;
+}
+
+.left-pane {
+    width: 40vw;
+    text-align: center;
+}
+
+.left-pane h2 {
+    font-size: 70px;
+    letter-spacing: 5px;
+    line-height: 120px;
+}
+
+.right-pane {
+    width: 50vw;
+    text-align: center;
+}

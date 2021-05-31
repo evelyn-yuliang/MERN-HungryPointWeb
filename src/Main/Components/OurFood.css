@@ -1,0 +1,32 @@
+.our-food-main {
+    padding: 60px 0;
+    background-image: url('../Assets/our-food-bg.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.our-food-main h4 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: serif;
+    margin-bottom: 10px;
+}
+
+.our-food-text {
+    text-align: center;
+    width: 50vw;
+    margin: 0 auto;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-view-menu {
+    font-size: 0.9rem;
+    width: 8vw;
+    margin: 0 auto;
+    background: rgb(255, 255, 255, 0.7);
+    text-align: center;
+    padding: 10px;
+}

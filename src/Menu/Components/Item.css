@@ -1,0 +1,107 @@
+.place-item {
+  margin: 1rem 0;
+}
+
+.place-item__content {
+  padding: 0;
+}
+
+.place-item__info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.place-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.place-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.place-item__info h2,
+.place-item__info h3,
+.place-item__info p {
+  margin: 0 0 0.5rem 0;
+}
+
+.place-item__actions {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.place-item__modal-content {
+  padding: 0;
+}
+
+.place-item__modal-actions {
+  text-align: right;
+}
+
+.place-item__actions button,
+.place-item__actions a {
+  margin: 0.5rem;
+}
+
+.submenu-container{
+  display:flex;
+  height:15rem;
+  width:100%;
+}
+
+.button-cancel {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #6d6b6c;
+  border-radius: 4px;
+  background: #6d6b6c;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button-order {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #ff0055;
+  border-radius: 4px;
+  background: #ff0055;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+button:focus {
+  outline: none;
+}
+
+
+.imgBox-modal img{
+  margin:10px;
+  width: 300px;
+  height: 250px;
+}
+
+.description p {
+  margin:45px 10px;
+  text-align: center;
+}
+
+.description-p {
+  color: gray;
+}
+
+@media (min-width: 768px) {
+  .place-item__image {
+    height: 20rem;
+  } 
+}

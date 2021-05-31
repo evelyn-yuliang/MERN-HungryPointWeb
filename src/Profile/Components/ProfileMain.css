@@ -1,0 +1,6 @@
+.profile-main {
+    display: flex;
+    margin: 0 auto;
+    width: 60vw;
+    min-height: 700px;
+}

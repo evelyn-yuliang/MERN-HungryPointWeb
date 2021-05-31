@@ -1,0 +1,16 @@
+.gallery-main {
+    padding-top: 30px;
+    display: block;
+    min-height: 1px;
+    width: 100%;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.gallery-main h4 {
+    text-align: center;
+    line-height: 100px;
+    font-size: 2rem;
+    font-family: serif;
+}
