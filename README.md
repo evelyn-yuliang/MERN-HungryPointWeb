@@ -22,9 +22,10 @@ At least 2 API implementation for each member
 
 ## Evelyn Liang
 
- * Navigation
- * Browsing the menu: guests can view the menu on the application.
- * Browsing submenu: guests can view the submenu on the application.
+ * Responsive Navigation
+ * Browsing the menu and submenu: guests can view the menu on the application.
+ * Cart : add the item into the cart
+
 
 ## Karan Gajjar
 
